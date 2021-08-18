@@ -5,7 +5,7 @@
   "location.none": "Desconhecido - Minas/Eventos?",
   "location.crabpot": "Pote de caranguejo em: {{location}}",
   "location.ocean": "Oceano",
-  "location.freshwater": "Freshwater",
+  "location.freshwater": "Água Doce",
   "location.forestriver": "Rio da Floresta",
   "location.forestpond": "Lago da Floresta",
   "location.bugland": "Covil dos Insetos Mutantes",
@@ -20,5 +20,5 @@
   "weather.prefix": "Clima",
   "weather.sun": "Sol",
   "weather.rain": "Chuva",
-  "weather.none": "Nenhuma entrada encontrada"
+  "weather.none": "Sem Informação"
 }
